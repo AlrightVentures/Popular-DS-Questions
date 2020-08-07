@@ -16,4 +16,4 @@ Being a multidisciplinary field, there a few Stack Exchange websites there are r
 
 At the time of this writing, Data Science Stack Exchange (DSSE) is on the bottom 10 sites sorted by percentage of questions that received answers.
 
-The fact that DSSE is a data science dedicated site (contrarily to the others), coupled with it having a lot of an unanswered questions, makes it an ideal candidate for this investigation.
+The fact that DSSE is a data science dedicated site (contrarily to the others), coupled with it having a lot of unanswered questions, makes it an ideal candidate for this investigation.
